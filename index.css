@@ -1,0 +1,76 @@
+body {
+    font-family: sans-serif;
+    background-color: antiquewhite
+}
+.link-header{
+    text-decoration:none;
+    color: chocolate;
+    
+    
+}
+.zagolovok{
+   text-align: center;
+   padding-bottom: 23px;
+   position: inherit;
+   
+}
+.head{
+    background-color: burlywood;
+    border-radius: 10px;
+}
+.link-nav{
+    margin-right:250px ;
+    text-decoration:none ;
+    color: chocolate;
+    
+}
+
+.p_1{
+    background-color: lightcoral;
+    color: black;
+    text-align: center;
+    border-radius:15px;
+    
+}
+.p_2{
+    background-color: lightcoral;
+    color: black;
+    text-align: center;
+    border-radius:15px;
+    
+}
+.p_3{
+    background-color: lightcoral;
+    color: black;
+    text-align: center;
+    border-radius:15px;
+    
+}
+.p_4{
+    background-color: lightcoral;
+    color: black;
+    text-align: center;
+    border-radius:15px;
+    
+}
+.foto{
+   position: absolute;
+}
+.navk{
+    text-align: center;
+}
+.photo{
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    margin-left: 1050px;
+    display: flex;
+}
+.vidio{
+    padding-left: 178px;
+}
+.aboba{
+    position: absolute;
+    margin-left: 115px;
+    margin-top: 10px;
+}
